@@ -1,0 +1,88 @@
+[2023-01-20 18:03:12] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-01-20 18:03:12] [WARNING]: 将在 5秒 后继续. 
+[2023-01-20 18:03:17] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-01-20 18:03:35] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-20 18:03:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:03:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:03:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:03:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:03:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:04:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:05:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:05:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: unexpected EOF 
+[2023-01-20 18:05:33] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-20 18:05:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/ 时出现错误: websocket: bad handshake 
+[2023-01-20 18:05:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/ 时出现错误: websocket: bad handshake 
+[2023-01-20 18:05:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/ 时出现错误: websocket: bad handshake 
+[2023-01-20 18:07:57] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-20 18:57:17] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:7322->127.0.0.1:1602: wsasend: An established connection was aborted by the software in your host machine. 
+[2023-01-20 18:57:11] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-20 19:10:33] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-01-20 19:10:33] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-01-20 19:10:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:8451->127.0.0.1:1602: use of closed network connection 
+[2023-01-20 19:10:37] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:8451->127.0.0.1:1602: use of closed network connection 
+[2023-01-20 19:22:15] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-20 19:22:22] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:8460->127.0.0.1:1602: use of closed network connection 
+[2023-01-20 19:22:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 19:22:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 19:22:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 19:22:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 19:22:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 20:01:35] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-01-20 20:11:58] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-20 20:12:02] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:8588->127.0.0.1:1602: use of closed network connection 
+[2023-01-20 20:12:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 20:12:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 20:12:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 20:12:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 20:36:08] [WARNING]: 合并转发(群)消息发送失败: 账号可能被风控. 
+[2023-01-20 20:53:59] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-01-20 21:10:26] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-20 21:10:27] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9117->127.0.0.1:1602: wsasend: An established connection was aborted by the software in your host machine. 
+[2023-01-20 21:10:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:10:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:10:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:10:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:10:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:10:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:22:35] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-01-20 21:23:20] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-01-20 21:26:44] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-01-20 21:57:44] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-20 21:57:49] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:10237->127.0.0.1:1602: use of closed network connection 
+[2023-01-20 21:57:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:57:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:58:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:59:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:59:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:59:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 21:59:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:1602/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:1602: connectex: No connection could be made because the target machine actively refused it. 
+[2023-01-20 23:24:30] [WARNING]: 语音文件 1B265E31-9721-0FE3-9902-7D9E238D5D67.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 

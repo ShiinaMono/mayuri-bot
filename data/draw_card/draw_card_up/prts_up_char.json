@@ -1,0 +1,40 @@
+{
+    "char": {
+        "title": "限定寻访·春节-万象伶仃",
+        "pool_img": "https:\/\/ak.hycdn.cn\/announce\/images\/20230107\/fafd75fb32c886162c9e1994e9f5bbd5.PNG",
+        "start_time": "2023-01-17T16:00:00",
+        "end_time": "2023-01-31T03:59:00",
+        "up_char": [
+            {
+                "name": "重岳",
+                "star": 6,
+                "limited": false,
+                "zoom": 0.7
+            },
+            {
+                "name": "林",
+                "star": 6,
+                "limited": false,
+                "zoom": 0.7
+            },
+            {
+                "name": "年",
+                "star": 6,
+                "limited": false,
+                "zoom": 5.0
+            },
+            {
+                "name": "夕",
+                "star": 6,
+                "limited": false,
+                "zoom": 5.0
+            },
+            {
+                "name": "令",
+                "star": 6,
+                "limited": false,
+                "zoom": 5.0
+            }
+        ]
+    }
+}

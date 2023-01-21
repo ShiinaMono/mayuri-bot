@@ -1,0 +1,116 @@
+{
+    "char": {
+        "title": "「烟火之邀」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/thumb\/6\/68\/re63m3dbz6sd9iejplmna69hry4i6db.png\/1200px-%E7%A5%88%E6%84%BF042-2%E6%9C%9F.png.jpeg",
+        "start_time": "2023-01-18T11:00:00",
+        "end_time": "2023-02-07T17:59:00",
+        "up_char": [
+            {
+                "name": "魈",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "瑶瑶",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "云堇",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "辛焱",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    },
+    "arms": {
+        "title": "「神铸赋形」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/thumb\/5\/55\/klwrf0vjnybelyz7yzosetselvpk423.png\/1200px-%E7%A5%88%E6%84%BF042%E6%9C%9F%E6%AD%A6%E5%99%A8.png.jpeg",
+        "start_time": "2023-01-18T11:00:00",
+        "end_time": "2023-02-07T17:59:00",
+        "up_char": [
+            {
+                "name": "裁叶萃光",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "和璞鸢",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "千岩长枪",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "笛剑",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "雨裁",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "流浪乐章",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "祭礼弓",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    },
+    "char1": {
+        "title": "「敕诫枢谋」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/thumb\/0\/05\/lioro9epjpyll8ib769sa14zkffxf6o.png\/1200px-%E7%A5%88%E6%84%BF042%E6%9C%9F.png.jpeg",
+        "start_time": "2023-01-18T11:00:00",
+        "end_time": "2023-02-07T17:59:00",
+        "up_char": [
+            {
+                "name": "艾尔海森",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "瑶瑶",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "云堇",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "辛焱",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    }
+}

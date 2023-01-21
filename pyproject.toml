@@ -1,0 +1,16 @@
+[project]
+name = "moring"
+version = "0.1.0"
+description = "moring"
+readme = "README.md"
+requires-python = ">=3.8, <4.0"
+
+[tool.nonebot]
+adapters = [
+    { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" },
+    { name = "QQ 频道", module_name = "nonebot.adapters.qqguild" },
+    { name = "OneBot V12", module_name = "nonebot.adapters.onebot.v12" }
+]
+plugins = ["nonebot_plugin_apscheduler", "nonebot_bison", "nonebot_plugin_analysis_bilibili", "nonebot_plugin_gamedraw", "nonebot_plugin_setu", "nonebot_plugin_heweather","nonebot_plugin_picsearcher","nonebot_plugin_htmlrender", "nonebot_plugin_chatgpt"]
+plugin_dirs = [""]
+builtin_plugins = ["echo", "single_session"]
